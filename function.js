@@ -91,7 +91,7 @@ function multiplicationTable(){
 }
 
 
-let i;
+[let i;
 for(i=0;i<5;i=i+1){
 console.log(i);
 }
@@ -161,6 +161,6 @@ console.table(numbers);
 months.pop();
 months.shift();
 months.splice(2,1);
-console.table(months);
+console.table(months);]
 
 

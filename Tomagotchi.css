@@ -2,8 +2,8 @@
     background-color: black;
 }
 
-.img{
+.img,Tomi{
     display: flex;
     justify-content: space-between;
-    
+    size: 30px 0 0 30px;
 }
