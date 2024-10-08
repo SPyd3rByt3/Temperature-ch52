@@ -96,3 +96,15 @@ let image = ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMYJJtcDVHnb
 ]
 
 
+
+function loopFrom1To100(){
+    for (let i=1; i<=100; i++){
+        if (i==50){
+            console.log("i found it!");
+        }else{
+            console.log(i);
+        }      
+    }
+}
+
+loopFrom1To100();
