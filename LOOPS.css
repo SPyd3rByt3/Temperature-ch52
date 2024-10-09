@@ -5,7 +5,8 @@
 
 body{
     font-family: arial;
-
+    font-weight: bolder;
+    color: yellow;
 }
 
 #result{

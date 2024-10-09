@@ -1,0 +1,54 @@
+*{
+    background-color: firebrick;
+/*    align-content: space-around;*/
+}
+
+body{
+    font-family: arial;
+    font-weight: bolder;
+    color: yellow;
+}
+
+#result{
+
+    display: grid;
+
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
+    column-gap: 10px;
+
+}
+
+.cars{
+
+    border: 1px solid black;
+
+    margin-bottom: 5px;
+
+    padding: 10px;
+
+    background-color: #dedede;
+
+}
+
+img{
+
+    max-width: 600px;
+    /*width: 100%;*/
+
+    border-radius: 50%;
+
+}
+
+.cars p{
+
+    font-size: 15px;
+
+}
+
+.cars h6{
+
+    text-align: start;
+
+}
+
